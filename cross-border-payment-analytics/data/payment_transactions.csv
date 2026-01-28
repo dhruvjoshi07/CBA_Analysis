@@ -1,0 +1,5 @@
+transaction_id,transaction_date,sender_country,receiver_country,currency,amount_usd,fx_rate,amount_local,status,payment_method
+TXN001,2025-01-01,US,IN,INR,1000,83.2,83200,Success,Bank Transfer
+TXN002,2025-01-02,UK,DE,EUR,500,0.92,460,Failed,Card
+TXN003,2025-01-03,US,MX,MXN,300,17.1,5130,Success,Wallet
+TXN004,2025-01-04,CA,IN,INR,700,83.0,58100,Failed,Bank Transfer
