@@ -170,6 +170,17 @@ This project is useful for:
 ✔ Build automated reporting pipeline
 ✔ Implement interactive maps
 
+## 🎯 Challenges & Learnings
+
+During this project, I gained practical experience in:
+
+- Handling large financial datasets
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Building analytical dashboards
+- Extracting business insights from transactional data
+- Visual storytelling using charts and plots
+
 📚 Summary
 
 Cross-Border Payment Analytics explores global transaction data, offering insights into trends, volumes, and regional behaviors. It’s a powerful exploratory tool for understanding financial flows and international payment performance.
